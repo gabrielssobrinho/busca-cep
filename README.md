@@ -1,4 +1,4 @@
-# Netflix Clone
+# Busca CEP
 
 Projeto com a finalidade de exibir informações de determinado CEP.
 
@@ -6,7 +6,7 @@ Projeto com a finalidade de exibir informações de determinado CEP.
 
 * Visual Studio Code.
 * Node.
-* Npm (npx create-react-app netflix-clone).
+* Npm (npx create-react-app busca-cep).
 * API Viacep.
 
 Acesse: https://gabrielssobrinho.github.io/busca-cep/.
